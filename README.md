@@ -1,4 +1,4 @@
-🖱️ Como Usar a Aplicação
+🖱️ Como Usar A Aplicação.
 🏷️ Campos de entrada: Nome, Sobrenome, Email, CPF
 
 🔘 Botões:
@@ -30,15 +30,9 @@
 Passos:
 📥 Instale o PyInstaller:
 
-bash
-Copiar
-Editar
 pip install pyinstaller
 📦 Crie o executável:
 
-bash
-Copiar
-Editar
 cd caminho/para/gerenciador_clientes
 pyinstaller --onefile --noconsole application.py
 --onefile: gera um único arquivo executável
@@ -67,9 +61,6 @@ O método Backend.initDB() cria a tabela automaticamente na primeira execução.
 ⚠️ Erro: "No module named tkinter"
 Certifique-se que Tkinter está instalado. No Linux, pode instalar com:
 
-bash
-Copiar
-Editar
 pip install tk
 🐞 Erro ao executar
 
@@ -83,9 +74,6 @@ Confirme que o PyInstaller criou o executável sem erros.
 
 No Windows, execute pelo terminal para ver mensagens:
 
-bash
-Copiar
-Editar
 ./dist/application.exe
 🔄 Tabela não atualiza
 
@@ -116,6 +104,8 @@ Sugestões para evoluir o projeto:
 Se precisar de ajuda, consulte seu instrutor!
 
 Desenvolvido por: Nicolas Ubaldo Moreira.
+
+ultima vez alterado 04/07/2025 as 15:17
 
 
 
