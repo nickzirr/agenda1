@@ -46,5 +46,7 @@ O banco de dados é salvo como `clientes.db` com a tabela `clientes`, contendo o
 ## ▶️ Como Executar o Projeto
 
 ### 1. Verifique o Python:
-```bash
-python --version
+
+Criado e Codificado Por: Nicolas Ubaldo Moreira.
+
+Ultima Alteração: 04/07/2025 as 16:20
