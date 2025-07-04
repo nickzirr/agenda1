@@ -1,4 +1,4 @@
-🖱️ Como Usar A Aplicação.
+🖱️ Como Usar a Aplicação.
 🏷️ Campos de entrada: Nome, Sobrenome, Email, CPF
 
 🔘 Botões:
@@ -106,8 +106,6 @@ Se precisar de ajuda, consulte seu instrutor!
 Desenvolvido por: Nicolas Ubaldo Moreira.
 
 ultima vez alterado 04/07/2025 as 15:17
-
-
 
 
 
