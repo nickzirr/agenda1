@@ -1,4 +1,4 @@
-🖱️ Como Usar a Aplicação.
+🖱️ COMO USAR A APLICAÇÃO.
 
 🏷️ Campos de entrada: Nome, Sobrenome, Email, CPF
 
